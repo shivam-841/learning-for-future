@@ -1,0 +1,13 @@
+{
+  "name": "ros2-installer",
+  "version": "1.0.0",
+  "description": "A project to automate the installation of ROS2 (Robot Operating System 2).",
+  "main": "scripts/install_ros2.sh",
+  "scripts": {
+    "install": "bash scripts/install_ros2.sh"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "",
+  "license": "MIT"
+}
